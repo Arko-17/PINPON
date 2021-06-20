@@ -1,0 +1,39 @@
+.division{
+    width: 100%;
+    text-align: left;
+    }
+    .division h3{
+        display: inline;
+    }
+    .division button{
+        float: right;
+    }
+    .bienvenue{
+        width: 100%;
+    }
+    #play,#status{
+        font-size: 22px;
+    }
+    #brainteaser{
+        color: aqua;
+        background-image: linear-gradient(darkgray,brown);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 25px;
+
+    }
+    #aq{
+        color:darkgray;
+        background-image: linear-gradient(red,crimson);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 20px;   
+    }
+    canvas{
+     border: 3px solid white;
+     border-radius: 20px;
+     box-shadow: 5px 5px white;   
+    }
+    h4{
+        background-color: red;
+        color: black;
+        line-height: 2;
+    }
